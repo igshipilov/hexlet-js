@@ -1,4 +1,7 @@
 import _ from "lodash";
 
-console.log('Hello, Hexlet!');
-console.log(_.last(['one', 'two']));
+const test = () => {
+  let a = 42;
+  let b = 24;
+  return a + b;
+};
